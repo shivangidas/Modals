@@ -1,3 +1,7 @@
+/*
+Author : Shivangi Das
+Date : 16/03/2017
+*/
 var modal = document.getElementById('adModal');
 var adClick = document.getElementById("adBox");
 var close = document.getElementsByClassName("close")[0];
